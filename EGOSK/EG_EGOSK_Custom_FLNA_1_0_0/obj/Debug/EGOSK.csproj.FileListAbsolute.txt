@@ -1,0 +1,114 @@
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\ResolveAssemblyReference.cache
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\Window1.baml
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\Window1.g.cs
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\App.g.cs
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK_MarkupCompile.cache
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.g.resources
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.Properties.Resources.resources
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.csproj.GenerateResource.Cache
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\bin\Debug\EGOSK.exe
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\bin\Debug\EGOSK.pdb
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.exe
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.pdb
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGKeyboard.baml
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGKeyboard.g.cs
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\bin\Debug\EGOSK.exe.manifest
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\bin\Debug\EGOSK.application
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.exe.manifest
+D:\work_data\Development\dotNET\Projects\EGOSK\EGOSK\obj\Debug\EGOSK.application
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.exe
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.pdb
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\bin\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\bin\Debug\EGOSK.application
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\bin\Debug\EGOSK.exe
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\bin\Debug\EGOSK.pdb
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\ResolveAssemblyReference.cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGKeyboard.baml
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\Window1.baml
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGKeyboard.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\Window1.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\App.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK_MarkupCompile.cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.g.resources
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.Properties.Resources.resources
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.csproj.GenerateResource.Cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\obj\Debug\EGOSK.application
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Standard_1_0_0\EG_EGOSK_Standard_1_0_0\bin\Debug\EGOSK.exe.config
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.config
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.pdb
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.application
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.pdb
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResolveAssemblyReference.cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.baml
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.baml
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\App.g.cs
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK_MarkupCompile.cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.g.resources
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.Properties.Resources.resources
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.csproj.GenerateResource.Cache
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.application
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.config
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.pdb
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.application
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.pdb
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResolveAssemblyReference.cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.baml
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.baml
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\App.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK_MarkupCompile.cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.g.resources
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.Properties.Resources.resources
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.csproj.GenerateResource.Cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\PRM Replacement\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.application
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.config
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.pdb
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.application
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.pdb
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResolveAssemblyReference.cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.baml
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.baml
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\App.g.cs
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK_MarkupCompile.cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.g.resources
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.Properties.Resources.resources
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.csproj.GenerateResource.Cache
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe.manifest
+D:\work_data\FRITO\FRITO-0029 FLNA PRM Replacement\dev\EG_EGOSK_Custom_FLNA_1_0_0\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.application
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.config
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.pdb
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe.manifest
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.application
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.exe
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\Debug\EGOSK.pdb
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResolveAssemblyReference.cache
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.baml
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.baml
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGKeyboard.g.cs
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\Window1.g.cs
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\App.g.cs
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK_MarkupCompile.cache
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.g.resources
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.Properties.Resources.resources
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResGen.read.1.tlog
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\ResGen.write.1.tlog
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.exe.manifest
+D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\Debug\EGOSK.application

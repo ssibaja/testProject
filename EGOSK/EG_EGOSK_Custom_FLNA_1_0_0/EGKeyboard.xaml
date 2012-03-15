@@ -1,0 +1,130 @@
+﻿<UserControl x:Class="EGOSK.EGKeyboard"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    MinHeight="150" MinWidth="450" Loaded="UserControl_Loaded" FontFamily="Arial Rounded I">
+    <Grid Name="allKeysGrid" Grid.Row="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Name="keyboardGrid" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*" />
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="11*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <Button Name="num1Button" Style="{DynamicResource KeyButton}" Content="1" CommandParameter="_1" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" />
+            <Button Name="num2Button" Style="{DynamicResource KeyButton}" Content="2" CommandParameter="_2" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2" />
+            <Button Name="num3Button" Style="{DynamicResource KeyButton}" Content="3" CommandParameter="_3" Grid.Row="1" Grid.Column="5" Grid.ColumnSpan="2" />
+            <Button Name="num4Button" Style="{DynamicResource KeyButton}" Content="4" CommandParameter="_4" Grid.Row="1" Grid.Column="7" Grid.ColumnSpan="2" />
+            <Button Name="num5Button" Style="{DynamicResource KeyButton}" Content="5" CommandParameter="_5" Grid.Row="1" Grid.Column="9" Grid.ColumnSpan="2" />
+            <Button Name="num6Button" Style="{DynamicResource KeyButton}" Content="6" CommandParameter="_6" Grid.Row="1" Grid.Column="11" Grid.ColumnSpan="2" />
+            <Button Name="num7Button" Style="{DynamicResource KeyButton}" Content="7" CommandParameter="_7" Grid.Row="1" Grid.Column="13" Grid.ColumnSpan="2" />
+            <Button Name="num8Button" Style="{DynamicResource KeyButton}" Content="8" CommandParameter="_8" Grid.Row="1" Grid.Column="15" Grid.ColumnSpan="2" />
+            <Button Name="num9Button" Style="{DynamicResource KeyButton}" Content="9" CommandParameter="_9" Grid.Row="1" Grid.Column="17" Grid.ColumnSpan="2" />
+            <Button Name="num0Button" Style="{DynamicResource KeyButton}" Content="0" CommandParameter="_0" Grid.Row="1" Grid.Column="19" Grid.ColumnSpan="2" />
+            <Button Name="qButton" Style="{DynamicResource KeyButton}" Content="q" CommandParameter="Q" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" />
+            <Button Name="wButton" Style="{DynamicResource KeyButton}" Content="w" CommandParameter="W" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2" />
+            <Button Name="eButton" Style="{DynamicResource KeyButton}" Content="e" CommandParameter="E" Grid.Row="3" Grid.Column="5" Grid.ColumnSpan="2" />
+            <Button Name="rButton" Style="{DynamicResource KeyButton}" Content="r" CommandParameter="R" Grid.Row="3" Grid.Column="7" Grid.ColumnSpan="2" />
+            <Button Name="tButton" Style="{DynamicResource KeyButton}" Content="t" CommandParameter="T" Grid.Row="3" Grid.Column="9" Grid.ColumnSpan="2" />
+            <Button Name="yButton" Style="{DynamicResource KeyButton}" Content="y" CommandParameter="Y" Grid.Row="3" Grid.Column="11" Grid.ColumnSpan="2" />
+            <Button Name="uButton" Style="{DynamicResource KeyButton}" Content="u" CommandParameter="U" Grid.Row="3" Grid.Column="13" Grid.ColumnSpan="2" />
+            <Button Name="iButton" Style="{DynamicResource KeyButton}" Content="i" CommandParameter="I" Grid.Row="3" Grid.Column="15" Grid.ColumnSpan="2" />
+            <Button Name="oButton" Style="{DynamicResource KeyButton}" Content="o" CommandParameter="O" Grid.Row="3" Grid.Column="17" Grid.ColumnSpan="2" />
+            <Button Name="pButton" Style="{DynamicResource KeyButton}" Content="p" CommandParameter="P" Grid.Row="3" Grid.Column="19" Grid.ColumnSpan="2" />
+            <Button Name="aButton" Style="{DynamicResource KeyButton}" Content="a" CommandParameter="A" Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2" />
+            <Button Name="sButton" Style="{DynamicResource KeyButton}" Content="s" CommandParameter="S" Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="2" />
+            <Button Name="dButton" Style="{DynamicResource KeyButton}" Content="d" CommandParameter="D" Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="2" />
+            <Button Name="fButton" Style="{DynamicResource KeyButton}" Content="f" CommandParameter="F" Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="2" />
+            <Button Name="gButton" Style="{DynamicResource KeyButton}" Content="g" CommandParameter="G" Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="2" />
+            <Button Name="hButton" Style="{DynamicResource KeyButton}" Content="h" CommandParameter="H" Grid.Row="5" Grid.Column="12" Grid.ColumnSpan="2" />
+            <Button Name="jButton" Style="{DynamicResource KeyButton}" Content="j" CommandParameter="J" Grid.Row="5" Grid.Column="14" Grid.ColumnSpan="2" />
+            <Button Name="kButton" Style="{DynamicResource KeyButton}" Content="k" CommandParameter="K" Grid.Row="5" Grid.Column="16" Grid.ColumnSpan="2" />
+            <Button Name="lButton" Style="{DynamicResource KeyButton}" Content="l" CommandParameter="L" Grid.Row="5" Grid.Column="18" Grid.ColumnSpan="2" />
+            <Button Name="zButton" Style="{DynamicResource KeyButton}" Content="z" CommandParameter="Z" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="2" />
+            <Button Name="xButton" Style="{DynamicResource KeyButton}" Content="x" CommandParameter="X" Grid.Row="7" Grid.Column="5" Grid.ColumnSpan="2" />
+            <Button Name="cButton" Style="{DynamicResource KeyButton}" Content="c" CommandParameter="C" Grid.Row="7" Grid.Column="7" Grid.ColumnSpan="2" />
+            <Button Name="vButton" Style="{DynamicResource KeyButton}" Content="v" CommandParameter="V" Grid.Row="7" Grid.Column="9" Grid.ColumnSpan="2" />
+            <Button Name="bButton" Style="{DynamicResource KeyButton}" Content="b" CommandParameter="B" Grid.Row="7" Grid.Column="11" Grid.ColumnSpan="2" />
+            <Button Name="nButton" Style="{DynamicResource KeyButton}" Content="n" CommandParameter="N" Grid.Row="7" Grid.Column="13" Grid.ColumnSpan="2" />
+            <Button Name="mButton" Style="{DynamicResource KeyButton}" Content="m" CommandParameter="M" Grid.Row="7" Grid.Column="15" Grid.ColumnSpan="2" />
+            <Button Name="decButton1" Style="{DynamicResource KeyButton}" Content="." CommandParameter="DECIMAL" Grid.Row="7" Grid.Column="18" Grid.ColumnSpan="2" />
+            <Button Name="quitButton" Style="{DynamicResource KeyButton}" Content="Enter" CommandParameter="QUIT" Grid.Row="5" Grid.Column="21" Grid.ColumnSpan="3" Grid.RowSpan="5" FontWeight="BOLD" />
+            <Button Name="capsButton" Style="{DynamicResource KeyButton}" Content="Caps Lock" CommandParameter="CAPITAL" Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="5" Click="capsButton_Click" />
+            <Button Name="spaceButton" Style="{DynamicResource KeyButton}" Content="Space" CommandParameter="SPACE" Grid.Row="9" Grid.Column="7" Grid.ColumnSpan="11" />
+            <Button Name="backspaceButton" Style="{DynamicResource KeyButton}" Content="Back" CommandParameter="BACK" Grid.Row="1" Grid.Column="21" Grid.ColumnSpan="3" />
+        </Grid>
+        <Grid Name="numPadGrid" Grid.Column="1" Margin="0,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="3*"/>
+            </Grid.RowDefinitions>
+            <Button Name="sevenButton" Style="{DynamicResource KeyButton}" Content="7" CommandParameter="NUMPAD7" Grid.Row="3" Grid.Column="1" />
+            <Button Name="eightButton" Style="{DynamicResource KeyButton}" Content="8" CommandParameter="NUMPAD8" Grid.Row="3" Grid.Column="2" />
+            <Button Name="nineButton" Style="{DynamicResource KeyButton}" Content="9" CommandParameter="NUMPAD9" Grid.Row="3" Grid.Column="3" />
+            <Button Name="fourButton" Style="{DynamicResource KeyButton}" Content="4" CommandParameter="NUMPAD4" Grid.Row="5" Grid.Column="1" />
+            <Button Name="fiveButton" Style="{DynamicResource KeyButton}" Content="5" CommandParameter="NUMPAD5" Grid.Row="5" Grid.Column="2" />
+            <Button Name="sixButton" Style="{DynamicResource KeyButton}" Content="6" CommandParameter="NUMPAD6" Grid.Row="5" Grid.Column="3" />
+            <Button Name="oneButton" Style="{DynamicResource KeyButton}" Content="1" CommandParameter="NUMPAD1" Grid.Row="7" Grid.Column="1" />
+            <Button Name="twoButton" Style="{DynamicResource KeyButton}" Content="2" CommandParameter="NUMPAD2" Grid.Row="7" Grid.Column="2" />
+            <Button Name="threeButton" Style="{DynamicResource KeyButton}" Content="3" CommandParameter="NUMPAD3" Grid.Row="7" Grid.Column="3" />
+            <Button Name="zeroButton" Style="{DynamicResource KeyButton}" Content="0" CommandParameter="NUMPAD0" Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="3" />
+            <Button Name="decButton2" Style="{DynamicResource KeyButton}" Content="." CommandParameter="DECIMAL" Grid.Row="1" Grid.Column="4" />
+            <Button Name="quitButton2" Style="{DynamicResource KeyButton}" Content="Enter" CommandParameter="QUIT" FontWeight="Bold" Grid.Column="4" Grid.Row="3" Grid.RowSpan="7" />
+            <Button Name="backspaceButton2" Style="{DynamicResource KeyButton}" Content="Back" CommandParameter="BACK" Grid.ColumnSpan="3" Grid.Row="1" Grid.Column="1" />
+        </Grid>
+    </Grid>
+</UserControl>
