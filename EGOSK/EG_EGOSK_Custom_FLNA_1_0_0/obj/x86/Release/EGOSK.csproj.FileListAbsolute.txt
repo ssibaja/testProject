@@ -21,3 +21,6 @@ D:\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\x86\Release\EGOSK.pdb
 D:\ENTEGREAT\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\x86\Release\EGOSK.exe.config
 D:\ENTEGREAT\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\x86\Release\EGOSK.exe
 D:\ENTEGREAT\FRITO LAY\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\x86\Release\EGOSK.pdb
+D:\EG\testProject\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\bin\x86\Release\EGOSK.exe.config
+D:\EG\testProject\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\x86\Release\EGOSK.exe
+D:\EG\testProject\EGOSK\EG_EGOSK_Custom_FLNA_1_0_0\obj\x86\Release\EGOSK.pdb

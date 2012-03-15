@@ -40,6 +40,7 @@ namespace EGOSK {
             KeyUp = 0x0002,
             KeyDown = 0x0000,
             ExtendedKey = 0x0001
+
         }
 
         private struct KEYBDINPUT {
